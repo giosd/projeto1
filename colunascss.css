@@ -1,0 +1,34 @@
+body {
+   text-align: center;
+}
+#total {
+   
+   width:  100%;
+}
+#topo {
+   height:     75px;
+   background: #FFFFC0;
+}
+#col1 {
+   background: #C0FFC0;
+   width:      100%;
+   text-align: left;
+}
+#col2 {
+   width:      100%;
+   text-align: left;
+   background: #C0FFFF;
+text-align: center;
+}
+#inferior {
+   float:      left;
+   width:      100%;
+   background: #C0C0FF;
+}
+
+#cont li{
+ width: 25%;
+        height: 150px;
+        display: inline;
+        margin-right: 1%;
+}
